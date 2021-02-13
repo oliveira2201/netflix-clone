@@ -1,4 +1,4 @@
-# Clone da Netflix
+# Netflix Clone
 
-Projeto que utiliza HTML, CSS e um plugin de jQuery para o carrosel.
-O projeto teve como objetivo somente treinamento dessas tecnologias.
+Mini project using HTML, CSS and a jQuery plugin for the carousel.\
+The project aims to train these technologies.
